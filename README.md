@@ -28,7 +28,7 @@ A customer retention analysis project for a telecom company aimed at identifying
 
 An HR analytics project focused on workforce demographics, employee performance, and attrition analysis to support data-driven HR decision-making.
 
-**Skills Used**
+**Skills Applied**
 
 * Power BI
 * DAX
