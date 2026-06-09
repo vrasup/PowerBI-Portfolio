@@ -1,7 +1,6 @@
 # 📊 Power BI Portfolio
 
-Hello! I'm Vidhya Rasu. I'm building my skills in Data Analytics, Power BI, SQL, and data visualization through hands-on projects and real-world business case studies. This portfolio showcases projects focused on transforming data into actionable insights using Power BI, DAX, Power Query, and data modeling.
-
+Hello! I'm Vidhya Rasu. I'm building my skills in Data Analytics, Power BI, SQL, and data visualization through hands-on projects and real-world business case studies. This portfolio showcases my work in transforming data into actionable insights using Power BI, DAX, Power Query, and data modeling.
 ---
 
 ## 🚀 Projects
