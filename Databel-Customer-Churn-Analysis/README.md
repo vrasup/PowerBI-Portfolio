@@ -103,3 +103,5 @@ Summarizes key findings and business recommendations.
 ## Author
 
 Vidhya Rasu
+
+🔗 LinkedIn: https://www.linkedin.com/in/vidhya-rasu-74a9b31a5 
