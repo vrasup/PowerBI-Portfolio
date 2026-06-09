@@ -1,6 +1,6 @@
 # 📊 Power BI Portfolio
 
-Welcome to my Power BI Portfolio repository. This portfolio showcases end-to-end business intelligence projects focused on customer analytics and workforce analytics. These projects demonstrate my skills in data modeling, DAX, Power Query, dashboard design, and business storytelling using Power BI.
+This portfolio showcases end-to-end business intelligence projects focused on customer analytics and workforce analytics. These projects demonstrate my skills in data modeling, DAX, Power Query, dashboard design, and business storytelling using Power BI.
 
 ---
 
