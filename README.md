@@ -1,6 +1,6 @@
 # 📊 Power BI Portfolio
 
-This portfolio showcases end-to-end business intelligence projects focused on customer analytics and workforce analytics. These projects demonstrate my skills in data modeling, DAX, Power Query, dashboard design, and business storytelling using Power BI.
+Hello! I'm Vidhya Rasu. I'm building my skills in Data Analytics, Power BI, SQL, and data visualization through hands-on projects and real-world business case studies. This portfolio showcases projects focused on transforming data into actionable insights using Power BI, DAX, Power Query, and data modeling.
 
 ---
 
