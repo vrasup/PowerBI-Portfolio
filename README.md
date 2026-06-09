@@ -60,4 +60,5 @@ An HR analytics project focused on workforce demographics, employee performance,
 
 **Vidhya Rasu**
 
-Feel free to explore the project folders for detailed documentation, dashboard screenshots, key insights, and business recommendations.
+🔗 LinkedIn: https://www.linkedin.com/in/vidhya-rasu-74a9b31a5 
+🔗 GitHub: https://github.com/vrasup
